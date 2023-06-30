@@ -1,6 +1,6 @@
 {application, erlguten,
  [
-  {description, ""},
+  {description, "erlguten"},
   {vsn, "0.1"},
   {modules, [
              eg_afm,
